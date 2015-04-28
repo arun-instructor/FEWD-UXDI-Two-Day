@@ -7,3 +7,6 @@
 - Introduction to CSS
 
 ###[Day 2](day_2/)
+- Review of HTML
+- Introduction to CSS
+- Lab time
