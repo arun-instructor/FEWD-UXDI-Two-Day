@@ -9,4 +9,5 @@
 ###[Day 2](day_2/)
 - Review of HTML
 - Introduction to CSS
+- Twitter Bootstrap overview
 - Lab time
